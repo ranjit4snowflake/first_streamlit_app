@@ -1,5 +1,5 @@
 import streamlit
 
-streamlit.title('My Parents New Healthy Diner')
+streamlit.title('My Parents New Healthy Diner');
 
-streamli.title('Breakfast Menu')
+streamli.title('Breakfast Menu');
