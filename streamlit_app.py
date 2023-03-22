@@ -49,7 +49,7 @@ try:
   # write your own comment - what does this do?
   streamlit.dataframe(fruityvice_normalized)
 
-except URLLError AS e:
+except URLLError as e:
  streamlit.error()
   
 streamlit.stop()
